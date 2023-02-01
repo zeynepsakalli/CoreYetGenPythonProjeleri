@@ -5,3 +5,6 @@
 Core YetGen Python Eğitim Programı'nda yaptığım projelerin tamamını burada saklıyorum.
 - 1. 12 haftalık programın hafta hafta projeleri burada yer almaktadır.
 - 2. Python programlama dilini kullanıyorum.
+
+
+
