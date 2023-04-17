@@ -1,0 +1,3 @@
+mouse,49.99
+ekran,500
+kasa,50000
